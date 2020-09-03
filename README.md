@@ -2,6 +2,8 @@
 
 A 10x faster version base on [official trimmomatic](http://www.usadellab.org/cms/?page=trimmomatic). The results of trimmomatic-pigz are exactly the same with official trimmomatic.(md5sum with decompression fastq)
 
+Download: https://github.com/jaydenSen/Trimmomatic-pigz/releases/download/v1.0/trimmomatic-pigz.jar
+
 ## Principle
 
 We replaced gzip library with a parallelized version: pigz.
