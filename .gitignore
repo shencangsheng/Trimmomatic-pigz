@@ -6,3 +6,4 @@
 *.settings
 *.iml
 .DS_Store
+/dist
