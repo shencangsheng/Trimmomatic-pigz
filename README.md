@@ -17,3 +17,9 @@ https://github.com/shevek/parallelgzip
 Test in paired end Mode with two fastq.gz(R1/R2):
 
 ![image](https://github.com/jaydenSen/Trimmomatic-pigz/raw/master/benchmark-test.png)
+
+## License
+
+A short snippet describing the license (MIT)
+
+MIT © Cangsheng Shen
